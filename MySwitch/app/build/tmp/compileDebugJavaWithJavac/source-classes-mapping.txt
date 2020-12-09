@@ -1,0 +1,5 @@
+com/example/myswitch/BuildConfig.java
+ com.example.myswitch.BuildConfig
+com/example/myswitch/MainActivity.java
+ com.example.myswitch.MainActivity
+ com.example.myswitch.MainActivity$1

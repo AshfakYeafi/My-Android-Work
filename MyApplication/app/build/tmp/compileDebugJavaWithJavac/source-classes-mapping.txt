@@ -1,0 +1,20 @@
+com/example/myapplication/ui/slideshow/SlideshowViewModel.java
+ com.example.myapplication.ui.slideshow.SlideshowViewModel
+com/example/myapplication/ui/slideshow/SlideshowFragment.java
+ com.example.myapplication.ui.slideshow.SlideshowFragment
+ com.example.myapplication.ui.slideshow.SlideshowFragment$1
+com/example/myapplication/ui/home/HomeFragment.java
+ com.example.myapplication.ui.home.HomeFragment
+ com.example.myapplication.ui.home.HomeFragment$1
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
+com/example/myapplication/ui/gallery/GalleryFragment.java
+ com.example.myapplication.ui.gallery.GalleryFragment
+ com.example.myapplication.ui.gallery.GalleryFragment$1
+com/example/myapplication/ui/gallery/GalleryViewModel.java
+ com.example.myapplication.ui.gallery.GalleryViewModel
+com/example/myapplication/ui/home/HomeViewModel.java
+ com.example.myapplication.ui.home.HomeViewModel

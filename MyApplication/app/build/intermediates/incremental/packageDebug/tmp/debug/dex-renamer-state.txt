@@ -1,0 +1,4 @@
+#Sat Dec 05 13:43:39 BDT 2020
+base.0=D\:\\android app\\MyApplication\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

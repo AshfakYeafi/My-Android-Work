@@ -1,0 +1,5 @@
+com/example/mydatedia/MainActivity.java
+ com.example.mydatedia.MainActivity
+ com.example.mydatedia.MainActivity$1
+com/example/mydatedia/BuildConfig.java
+ com.example.mydatedia.BuildConfig

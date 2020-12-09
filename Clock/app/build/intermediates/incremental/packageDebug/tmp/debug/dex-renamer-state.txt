@@ -1,0 +1,4 @@
+#Mon Dec 07 16:21:29 BDT 2020
+base.0=D\:\\android app\\Clock\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

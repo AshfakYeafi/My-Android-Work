@@ -1,0 +1,4 @@
+com/example/mybuttondemo/BuildConfig.java
+ com.example.mybuttondemo.BuildConfig
+com/example/mybuttondemo/MainActivity.java
+ com.example.mybuttondemo.MainActivity

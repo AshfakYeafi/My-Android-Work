@@ -1,0 +1,4 @@
+com/example/mycheakbox/BuildConfig.java
+ com.example.mycheakbox.BuildConfig
+com/example/mycheakbox/MainActivity.java
+ com.example.mycheakbox.MainActivity
