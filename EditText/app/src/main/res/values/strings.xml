@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="editText_1">Enter 1st Number</string>
+    <string name="editText_2">Enter 2nd Number</string>
+    <string name="add">ADD</string>
+    <string name="made_by_fahim">Made By Fahim</string>
+    <string name="result">Result :</string>
+</resources>
