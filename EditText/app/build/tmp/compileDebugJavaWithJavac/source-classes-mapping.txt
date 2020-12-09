@@ -1,0 +1,4 @@
+com/example/edittext/BuildConfig.java
+ com.example.edittext.BuildConfig
+com/example/edittext/MainActivity.java
+ com.example.edittext.MainActivity
